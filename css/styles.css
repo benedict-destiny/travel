@@ -1,0 +1,34 @@
+.head{
+    margin-top: -9px;
+    margin-right: -9px;
+    margin-left: -9px;
+    padding: 20px;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+   font-size:40px;
+}
+.size{
+    font-size: 60px;
+}
+.intro{
+    color: aliceblue;
+    font-style: italic;
+}
+.author{
+    margin-right:-12px;
+    margin-left:-12px;
+    padding 30px;
+    text-align:center;
+    background-color:#1abc9c;
+    font-size: 70px;
+    color:white;
+    
+}
+iframe{
+    float: center;
+}
+.act{
+    float:none;
+}
