@@ -1,0 +1,19 @@
+.head{
+    font-family: Helvetica;
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    position:sticky;
+    margin-top: -9px;
+    margin-right: -9px;
+    margin-left: -8px;
+    padding: 20px;
+}
+.links{
+    text-align: center;
+}
+.links a{
+    text-align: center;
+    padding: 54px 26px;
+}
